@@ -1,0 +1,1 @@
+This project contains a fully generated dashboard Monopoly game writen in C++ , plus a smart-player c++-file , created for the Object-Oriented programming Course of the Electrical and Computer Engineering Department of AUTH.
